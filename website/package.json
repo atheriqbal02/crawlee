@@ -34,7 +34,7 @@
     },
     "dependencies": {
         "@apify/utilities": "^2.8.0",
-        "@docusaurus/core": "3.4.0",
+        "@docusaurus/core": "3.5.2",
         "@docusaurus/mdx-loader": "3.4.0",
         "@docusaurus/plugin-client-redirects": "3.4.0",
         "@docusaurus/preset-classic": "3.4.0",
