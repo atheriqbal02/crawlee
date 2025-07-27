@@ -61,7 +61,7 @@
         "@crawlee/cli": "3.11.3",
         "@crawlee/core": "3.11.3",
         "@crawlee/http": "3.11.3",
-        "@crawlee/jsdom": "3.11.3",
+        "@crawlee/jsdom": "3.11.2",
         "@crawlee/linkedom": "3.11.3",
         "@crawlee/playwright": "3.11.3",
         "@crawlee/puppeteer": "3.11.3",
