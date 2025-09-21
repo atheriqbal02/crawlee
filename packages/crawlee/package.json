@@ -58,7 +58,7 @@
         "@crawlee/browser": "3.11.3",
         "@crawlee/browser-pool": "3.11.3",
         "@crawlee/cheerio": "3.11.3",
-        "@crawlee/cli": "3.11.3",
+        "@crawlee/cli": "3.0.0",
         "@crawlee/core": "3.11.3",
         "@crawlee/http": "3.11.3",
         "@crawlee/jsdom": "3.11.3",
